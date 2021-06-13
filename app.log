@@ -1,0 +1,10 @@
+2021-06-13 19:05:04.668  INFO 12062 --- [main] .r.w.r.RestfulWebserviceApplicationTests : Starting RestfulWebserviceApplicationTests using Java 11.0.11 on DESKTOP-27LA1EF with PID 12062 (started by cpap in /home/cpap/SpringServicesTutorial/restful-webservice)
+2021-06-13 19:05:04.670  INFO 12062 --- [main] .r.w.r.RestfulWebserviceApplicationTests : No active profile set, falling back to default profiles: default
+2021-06-13 19:05:06.614  INFO 12062 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-06-13 19:05:07.116  INFO 12062 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-06-13 19:05:07.208  INFO 12062 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-06-13 19:05:07.330  INFO 12062 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.31.Final
+2021-06-13 19:05:07.592  INFO 12062 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-06-13 19:05:07.769  INFO 12062 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-06-13 19:05:08.171  INFO 12062 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-06-13 19:05:10.729  INFO 12062 --- [main] .r.w.r.RestfulWebserviceApplicationTests : Started RestfulWebserviceApplicationTests in 6.577 seconds (JVM running for 7.861)
